@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://faisalhanif:03073641656F@devconnector-zwsr0.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://faisalhanif:03073641656F@devconnector-zwsr0.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
 }
